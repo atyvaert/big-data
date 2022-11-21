@@ -21,3 +21,6 @@
 •	The level of social media activity vs level of engagement                       => Wouter Dewitte 
 •	The volume of influencer activity vs level of engagement 
 ...
+
+
+https://developer.twitter.com/en/docs/twitter-api/data-dictionary/introduction
