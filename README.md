@@ -23,4 +23,7 @@
 ...
 
 
+Sources:
+
 https://developer.twitter.com/en/docs/twitter-api/data-dictionary/introduction
+https://github.com/caocscar/twitter-decahose-pyspark
