@@ -28,7 +28,7 @@ Sources:
 https://developer.twitter.com/en/docs/twitter-api/data-dictionary/introduction
 https://github.com/caocscar/twitter-decahose-pyspark
 
-Dependant variable ideas:
+Dependent variable ideas:
 
 - [Google Trends](https://trends.google.com/trends/?geo=BE)
 
