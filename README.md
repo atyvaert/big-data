@@ -28,6 +28,14 @@
 ...
 
 
+
+Taakverdeling 24/11/22:
+
+- Contacteren van Gents vegan bedrijf
+- Dependent zoeken
+- Papers lezen
+
+
 Sources:
 
 https://developer.twitter.com/en/docs/twitter-api/data-dictionary/introduction
