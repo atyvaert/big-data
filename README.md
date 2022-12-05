@@ -1,40 +1,7 @@
 # Big_Data
 
-•	The volume of a brand’s tweets 
-•	The language used in the tweets (words, sensitivity, emojis, ...)               
-•	The timing of tweets posted by a brand
-=> Artur Tyvaert
-
-•	The number of followers of the brand 
-•	The number of likes for a brand post                                            
-•	The number and impact of influencers for each brand 
-=> Konstantin Lazarov
-
-•	The volume of tweets 
-•	The timing of tweets                                                            
-•	The number of followers of users 
-=> Viktor Vandenbulcke
-
-•	The number of likes for a tweet
-•	The level of engagement for each tweet                                          
-•	The level of social media activity for user 
-=> Lennert Van Den Broeck
-
-•	The evolution of tweet activity 
-•	The evolution of tweet engagement 
-•	The level of social media activity vs level of engagement          
-•	The volume of influencer activity vs level of engagement 
-=> Wouter Dewitte 
-...
-
-
-
-Taakverdeling 24/11/22:
-
-- Contacteren van Gents vegan bedrijf
-- Dependent zoeken
-- Papers lezen
-
+Presentation:
+https://www.canva.com/design/DAFT4Yv60C0/Jp4LhoIuJGz_h-7wezwcnQ/edit?utm_content=DAFT4Yv60C0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Sources:
 
